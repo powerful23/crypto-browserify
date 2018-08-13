@@ -1,8 +1,8 @@
 {
   "author": "Dominic Tarr <dominic.tarr@gmail.com> (dominictarr.com)",
-  "name": "crypto-browserify",
-  "description": "partial implementation of crypto for the browser",
-  "version": "1.0.9",
+  "name": "amplify-crypto-browserify",
+  "description": "to make it work with aws-amplify",
+  "version": "1.0.11",
   "homepage": "https://github.com/dominictarr/crypto-browserify",
   "repository": {
     "type": "git",
